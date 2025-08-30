@@ -58,6 +58,7 @@ Rai Sport + HD\
 Motor Trend\
 Sportitalia\
 Sportitalia SoloCalcio\
+BIKE Channel\
 Donna TV\
 Supertennis\
 ALMA TV\
