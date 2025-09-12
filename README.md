@@ -52,13 +52,14 @@ TGCOM 24\
 DMAX\
 Rai Storia\
 Mediaset Extra\
+SuperTV\
 HGTV - Home&Garden\
 Rai Scuola\
 Rai Sport + HD\
 Motor Trend\
 Sportitalia\
-Sportitalia SoloCalcio\
 BIKE Channel\
+ItalianFishing TV\
 Donna TV\
 Supertennis\
 ALMA TV\
