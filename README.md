@@ -53,8 +53,8 @@ DMAX\
 Rai Storia\
 Mediaset Extra\
 RTV San Marino\
-RSI La1\
-RSI La2\
+RSI LA1\
+RSI LA2\
 SuperTV\
 HGTV - Home&Garden\
 Rai Scuola\
