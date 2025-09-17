@@ -52,6 +52,9 @@ TGCOM 24\
 DMAX\
 Rai Storia\
 Mediaset Extra\
+RTV San Marino\
+RSI La1\
+RSI La2\
 SuperTV\
 HGTV - Home&Garden\
 Rai Scuola\
@@ -81,5 +84,4 @@ RADIO ZETA\
 Radio Capital TV\
 M2O TV\
 Radio Montecarlo TV\
-RTV San Marino\
 Radio TV Serie A con RDS
