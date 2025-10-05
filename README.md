@@ -49,7 +49,6 @@ Rai News 24\
 Italia 2\
 Sky TG24\
 TGCOM 24\
-Radio24\
 Euronews Italia\
 DMAX\
 Rai Storia\
@@ -88,4 +87,5 @@ RADIO ZETA\
 Radio Capital TV\
 M2O TV\
 Radio Montecarlo TV\
+Radio24\
 Radio TV Serie A con RDS
