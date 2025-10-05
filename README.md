@@ -49,18 +49,22 @@ Rai News 24\
 Italia 2\
 Sky TG24\
 TGCOM 24\
+Radio24\
+Euronews Italia\
 DMAX\
 Rai Storia\
 Mediaset Extra\
 RTV San Marino\
 RSI LA1\
 RSI LA2\
+Gambero Rosso\
 SuperTV\
 HGTV - Home&Garden\
 Rai Scuola\
 Rai Sport + HD\
 Motor Trend\
 Sportitalia\
+Sportitalia Solo Calcio\
 BIKE Channel\
 ItalianFishing TV\
 Donna TV\
