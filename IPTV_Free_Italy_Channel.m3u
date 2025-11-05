@@ -33,8 +33,7 @@ https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:0,Rai 5
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streamcdnr16-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/rai5_2400/chunklist.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1761980970&tk2=11e183bfae900d53719246d3882d424e18e3106e52344a3acfbee3ff3cac9b83
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:0,Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
