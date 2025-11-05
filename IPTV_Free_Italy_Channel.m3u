@@ -81,7 +81,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 #EXTINF:0,Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:0,Rai Yoyo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnr18-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiyoyo1/hls/raiyoyo_2400/chunklist.m3u8?baseuri=%2Fraiyoyo1%2Fhls%2F&tstart=0&tend=1761983750&tk2=2938e837e433574708bad8e3e0802abc3249d6c6744167edb03ed25287a502e5
@@ -166,9 +166,6 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:0,RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:0,Rai Radio 2 Visual
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0,RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:0,VIRGIN RADIO
