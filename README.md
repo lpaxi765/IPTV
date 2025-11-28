@@ -53,7 +53,7 @@ Euronews Italia\
 DMAX\
 Rai Storia\
 Mediaset Extra\
-RTV San Marino\
+MAN-GA\
 RSI LA1\
 RSI LA2\
 Gambero Rosso\
