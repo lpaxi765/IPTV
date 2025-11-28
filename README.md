@@ -87,5 +87,5 @@ RADIO ZETA\
 Radio Capital TV\
 M2O TV\
 Radio Montecarlo TV\
-Radio24\
-Radio TV Serie A con RDS
+Radio24
+
