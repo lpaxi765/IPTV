@@ -27,7 +27,7 @@ Rai Premium\
 Cielo\
 Twenty Seven\
 TV2000\
-LA7d\
+LA7 Cinema\
 La 5\
 Real Time\
 QVC\
@@ -35,7 +35,7 @@ Food Network\
 Cine34\
 FOCUS\
 RTL 102.5\
-Warner TV\
+Discovery\
 Giallo\
 Top Crime\
 Boing\
