@@ -54,8 +54,6 @@ DMAX\
 Rai Storia\
 Mediaset Extra\
 MAN-GA\
-RSI LA1\
-RSI LA2\
 Gambero Rosso\
 SuperTV\
 HGTV - Home&Garden\
