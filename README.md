@@ -59,7 +59,7 @@ SuperTV\
 HGTV - Home&Garden\
 Rai Scuola\
 Rai Sport + HD\
-Motor Trend\
+Turbo\
 Sportitalia\
 Sportitalia Solo Calcio\
 BIKE Channel\
