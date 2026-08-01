@@ -82,7 +82,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1,K2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={01004587127a0e454158b5e7392283d7:2db7dd74073a6f2a5d5444bbfbe157f2,0101c9838be12fc94f2e2bb4f6137488:351e58868f9609833180101e8fdcb4bb,0102e7882e14ba5223411d61580a2e70:48141c60c33b393b1cb894afbe296496,0103936b48b232229e90e0fe748a5127:40fede50a7c079885cc1f5aeb0611938,0104a90d8377c8397a16db6aea00255d:0182a7edbf2671485557922934cce375,010572e14f306c6bc9321cd6231457b8:45cae75a5d4073406ee2f524f837c6d4}
+#KODIPROP:inputstream.adaptive.license_key={0100ba5d29a372845ef226049f684ec5:cb0e3ac2559b4537cffcd130644e5217,,01010dbb15af95a17086d1c21d5158df:3a167d7de6361eefe75d6d4eca03aa2a,,0102ec0417e0159d451394828b608b28:eed709c12d9202009dc6d105c957a080}
 https://api.zappr.stream/k2.mpd
 #EXTINF:-1,Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -92,13 +92,15 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forc
 https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
 #EXTINF:-1,Frisbee
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={010036356507e020b45b2603e2814373:51029ecaaff8ef429fd8c41cc672cec0,010167cff5cc52576f396d1ec8827cfa:1a39558797b040f528032ecca74d6b3f,01020b636a6a1e0b812eef00f28e3538:26bba1b5e42cb88b793241d2d7119fb5,0103d507c94e1bf4d556011010deba71:12a125c9a43b489a0adb3b937f618057,01045825dc15605c4de3845c3059fbb4:f87037afaefca37df7c2d92de899b9ee,0105dbe971f59408ff7f3372ad87fd9e:3ef2b2e5958025ee4c2c0b678d982b09}
+#KODIPROP:inputstream.adaptive.license_key={01000c556114ed472c4affc91caf1bac:76b1c243b54f48913970a922b17c2c7e,,01018590ee8718d526c3da96f22216fc:b0cddac881058d9cc5e057dbac7ed826,,0102259b1109135dc496194857380cf8:0eec99deb59dc6991c6c7cea4c41a64a}
 https://api.zappr.stream/frisbee.mpd
 #EXTINF:-1,Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 #EXTINF:-1,Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1,BeJoy Kids
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 #EXTINF:-1,Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
@@ -110,13 +112,14 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 #EXTINF:-1,TGCOM 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
-#EXTINF:-1,Euronews Italia
+#EXTINF:-1,Il Sole 24 Ore TV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8#EXTINF:-1,Euronews Italia
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8
 #EXTINF:-1,DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 #EXTINF:-1,Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raistoria1-push.cdn.netrw.it/@syna-token=st=1784306010~hmac=411e5d5a1d717e3e81ef648688f78e7967701275c58c63fb3a973edff28b16ab/rai/hls-enc/storia/raistoria/playlist.m3u8
+https://raistoria1-push.cdn.netrw.it/@syna-token=st=1785571407~hmac=d9a08a6c11c1566fc3b9ebb1bad898cfa9a339f4b5c64f88b8959fa62be6b08d/rai/hls-enc/storia/raistoria/playlist.m3u8
 #EXTINF:-1,Mediaset Extra
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
@@ -192,7 +195,5 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1,Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
-#EXTINF:-1,Radio24
-https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u8
 #EXTINF:0,Radio TV Serie A con RDS
 #https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
