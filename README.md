@@ -45,10 +45,12 @@ Rai Yoyo\
 Frisbee\
 Cartoonito\
 Super!\
+BeJoy Kids\
 Rai News 24\
 Italia 2\
 Sky TG24\
 TGCOM 24\
+Il Sole 24 Ore TV\
 Euronews Italia\
 DMAX\
 Rai Storia\
@@ -85,5 +87,5 @@ RADIO ZETA\
 Radio Capital TV\
 M2O TV\
 Radio Montecarlo TV\
-Radio24
+
 
