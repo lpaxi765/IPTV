@@ -119,7 +119,7 @@ https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 #EXTINF:-1,Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raistoria1-push.cdn.netrw.it/@syna-token=st=1785571407~hmac=d9a08a6c11c1566fc3b9ebb1bad898cfa9a339f4b5c64f88b8959fa62be6b08d/rai/hls-enc/storia/raistoria/playlist.m3u8
+https://raistoria1-push.cdn.netrw.it/@syna-token=st=1786379293~hmac=27f919887d29ec82c854172a522d75b11e42a7a0b7f48e8a10667d29549c9e40/rai/hls-enc/storia/raistoria/playlist.m3u8
 #EXTINF:-1,Mediaset Extra
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
