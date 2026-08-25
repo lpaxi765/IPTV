@@ -28,7 +28,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTINF:-1,Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+https://raiquattro1-push.cdn.netrw.it/@syna-token=st=1787686845~hmac=1edf6c865bdd314190c0dc0b64d3d894f07ad0c378985f8554ed2c269f5dd62b/rai/hls-enc/quattro/rai4/playlist_ma.m3u8
 #EXTINF:-1,Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
@@ -37,10 +37,10 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1,Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+https://raimovie1-push.cdn.netrw.it/@syna-token=st=1787687095~hmac=0d1cce16afb729f1f5b5ffca4d5d78d976d24e126edfbd89121821c3ee56a99d/rai/hls-enc/movie/raimovie/playlist_ma.m3u8
 #EXTINF:-1,Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
+https://raipremium1-push.cdn.netrw.it/@syna-token=st=1787687132~hmac=7761698e370a3bc6eaadc7e34d5bdd7307eb027e9c84a4e3b333486024cad26b/rai/hls-enc/premium/raipremium/playlist_ma.m3u8
 #EXTINF:-1,Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1,Twenty Seven
