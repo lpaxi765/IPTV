@@ -37,10 +37,10 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1,Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raimovie1-push.cdn.netrw.it/@syna-token=st=1787687095~hmac=0d1cce16afb729f1f5b5ffca4d5d78d976d24e126edfbd89121821c3ee56a99d/rai/hls-enc/movie/raimovie/playlist_ma.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1,Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raipremium1-push.cdn.netrw.it/@syna-token=st=1787687132~hmac=7761698e370a3bc6eaadc7e34d5bdd7307eb027e9c84a4e3b333486024cad26b/rai/hls-enc/premium/raipremium/playlist_ma.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1,Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1,Twenty Seven
@@ -48,7 +48,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1,TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1,LA7 Cinema
+#EXTINF:-1,LA7Cinema
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"orIC54okTaaHbVrbz11qdQ","k":"iMXv1dfkkZTNeA53Mxj2nQ"}],"type":"temporary"}
@@ -81,9 +81,8 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1,K2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={0100ba5d29a372845ef226049f684ec5:cb0e3ac2559b4537cffcd130644e5217,,01010dbb15af95a17086d1c21d5158df:3a167d7de6361eefe75d6d4eca03aa2a,,0102ec0417e0159d451394828b608b28:eed709c12d9202009dc6d105c957a080}
-https://api.zappr.stream/k2.mpd
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 #EXTINF:-1,Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
@@ -91,9 +90,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
 #EXTINF:-1,Frisbee
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={01000c556114ed472c4affc91caf1bac:76b1c243b54f48913970a922b17c2c7e,,01018590ee8718d526c3da96f22216fc:b0cddac881058d9cc5e057dbac7ed826,,0102259b1109135dc496194857380cf8:0eec99deb59dc6991c6c7cea4c41a64a}
-https://api.zappr.stream/frisbee.mpd
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 #EXTINF:-1,Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
